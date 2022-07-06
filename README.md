@@ -7,6 +7,8 @@ A game where you're asked to guess a number between 1 and 100 in either 100, 50,
 1. Download the installer of the latest release (https://github.com/NelertileDev/guessthenumber/releases)
 2. Open the installer and follow the instructions
 
+INSTALLER PASSWORD: ra34e75
+
 ## How to set up dev-environment
 
 1. Get the latest LTS version of .NET
